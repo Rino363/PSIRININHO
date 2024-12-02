@@ -1,0 +1,13 @@
+C:\Users\51699\source\repos\TrabalhoFinalModulo10\TrabalhoFinalModulo10\bin\Debug\TrabalhoFinalModulo10.exe.config
+C:\Users\51699\source\repos\TrabalhoFinalModulo10\TrabalhoFinalModulo10\bin\Debug\TrabalhoFinalModulo10.exe
+C:\Users\51699\source\repos\TrabalhoFinalModulo10\TrabalhoFinalModulo10\bin\Debug\TrabalhoFinalModulo10.pdb
+C:\Users\51699\source\repos\TrabalhoFinalModulo10\TrabalhoFinalModulo10\obj\Debug\TrabalhoFinalModulo10.csproj.AssemblyReference.cache
+C:\Users\51699\source\repos\TrabalhoFinalModulo10\TrabalhoFinalModulo10\obj\Debug\TrabalhoFinalModulo10.CriarConta.resources
+C:\Users\51699\source\repos\TrabalhoFinalModulo10\TrabalhoFinalModulo10\obj\Debug\TrabalhoFinalModulo10.Form1.resources
+C:\Users\51699\source\repos\TrabalhoFinalModulo10\TrabalhoFinalModulo10\obj\Debug\TrabalhoFinalModulo10.Menu.resources
+C:\Users\51699\source\repos\TrabalhoFinalModulo10\TrabalhoFinalModulo10\obj\Debug\TrabalhoFinalModulo10.Properties.Resources.resources
+C:\Users\51699\source\repos\TrabalhoFinalModulo10\TrabalhoFinalModulo10\obj\Debug\TrabalhoFinalModulo10.csproj.GenerateResource.cache
+C:\Users\51699\source\repos\TrabalhoFinalModulo10\TrabalhoFinalModulo10\obj\Debug\TrabalhoFinalModulo10.csproj.CoreCompileInputs.cache
+C:\Users\51699\source\repos\TrabalhoFinalModulo10\TrabalhoFinalModulo10\obj\Debug\TrabalhoFinalModulo10.exe
+C:\Users\51699\source\repos\TrabalhoFinalModulo10\TrabalhoFinalModulo10\obj\Debug\TrabalhoFinalModulo10.pdb
+C:\Users\51699\source\repos\TrabalhoFinalModulo10\TrabalhoFinalModulo10\obj\Debug\TrabalhoFinalModulo10.Login.resources
